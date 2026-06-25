@@ -1,0 +1,6 @@
+# Build binaries are distributed via GitHub Releases, never committed to the repo.
+# (Keeps this repo tiny — see the prune in June 2026.)
+*.exe
+*.exe.blockmap
+CHECKSUMS.txt
+latest.yml
